@@ -1,4 +1,4 @@
-# 002 | Var and
+# 002 | Var and const
 
 ## Problem
 Declare variables using var, := and constants. Print their types using %.
